@@ -193,7 +193,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Harsh Parihar**
 - Email: pariharharsh0472@gmail.com
-- LinkedIn: [harsh-parihar0](https://linkedin.com/in/harsh-parihar0)
+- LinkedIn: [harsh-parihar0]([https://linkedin.com/in/harsh-parihar0](https://www.linkedin.com/in/harsh-parihar-b366882a8/))
 - GitHub: [happii2k](https://github.com/happii2k)
 
 ## 🙏 Acknowledgments
